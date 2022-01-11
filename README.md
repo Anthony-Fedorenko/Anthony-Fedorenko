@@ -8,7 +8,6 @@
 - 💬 Ask me about **JS, React & TypeScript**
 - 🌱 I’m currently learning everything 🤣
 
----
 
 ### Languages and Tools:
 
@@ -31,7 +30,6 @@
 <br />
 <br />
 
----
 
 ### You can contact me:
 
@@ -41,7 +39,7 @@
 
 <br />
 
----
+
 
 
 [twitter]: https://twitter.com/AnthonyFeDev
