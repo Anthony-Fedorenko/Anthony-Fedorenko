@@ -1,7 +1,7 @@
-## Hi, I'm Anthony 👋
+## Hi, I'm Anthony 
 
 
-**Front End Developer**
+### Front End Developer
 
 - 🔭 I’m currently working on **React projects**
 - 💬 Ask me about **JS, React & TypeScript**
